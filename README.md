@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Bakti Dwi Pamungkas</h1>
 <h3 align="center">A passionate machine learning from Indonesia</h3>
 
