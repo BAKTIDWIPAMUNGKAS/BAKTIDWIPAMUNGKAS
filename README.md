@@ -59,7 +59,7 @@ MLOps & Cloud:
 
 📈 My GitHub Stats
 <p align="center">
-<!-- Ganti 'baktidwipamungkas' dengan username GitHub Anda jika berbeda -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=baktidwipamungkas%26show_icons=true%26theme=radical" alt="Bakti's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dbaktidwipamungkas%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
+<!-- Username sudah diperbarui -->
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=BAKTIDWIPAMUNGKAS%26show_icons=true%26theme=radical" alt="Bakti's GitHub Stats" />
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api/top-langs/?username=BAKTIDWIPAMUNGKAS%26layout=compact%26theme=radical" alt="Top Languages" />
 </p>
