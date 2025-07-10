@@ -54,7 +54,7 @@ MLOps & Cloud:
 
 📈 My GitHub Stats
 <p align="center">
-<!-- PERBAIKAN: Mengganti tema untuk mencoba refresh cache -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBAKTIDWIPAMUNGKAS%26show_icons%3Dtrue%26theme%3Ddracula%26cache_seconds%3D3600" alt="Bakti's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBAKTIDWIPAMUNGKAS%26layout%3Dcompact%26theme%3Ddracula%26cache_seconds%3D3600" alt="Top Languages" />
+<img src="dist/github-stats.svg" alt="Bakti's GitHub Stats" />
+<br/>
+<img src="dist/top-langs.svg" alt="Top Languages" />
 </p>
