@@ -1,8 +1,8 @@
 # Hi there, I'm Bakti Dwi Pamungkas 👋
 
-<a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/baktidwipamungkas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:baktidwipamungkas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://bakti-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 I am a Machine Learning Engineer passionate about developing intelligent solutions that solve real-world problems. My primary focus is on [Your Specialization, e.g., Computer Vision, NLP, Recommender Systems] and I enjoy working on the entire machine learning lifecycle, from data collection to model deployment.
 
